@@ -40,15 +40,15 @@ let resumeData = {
       {
         "CompanyName":"Goldman Sachs",
         "specialization":"Financial Analyst",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2019",
-        "Achievements":"Product Control Analyst. Assist in reconciling trading desk P&L."
+        "MonthOfLeaving":"June 2019 - ",
+        "YearOfLeaving":"Present",
+        "Achievements":"Control Analyst on Investment Management Division Product. Assist in reconciling private bank trading desk P&L."
       },
       {
         "CompanyName":"Hewlett Packard Enterprise",
         "specialization":"Product Management Intern",
-        "MonthOfLeaving":"Left January 2019",
-        "YearOfLeaving":"(1 year and 9 months)",
+        "MonthOfLeaving":"May 2017 - ",
+        "YearOfLeaving":"January 2019",
         "Achievements":"Responsible for the accurancy, timeliness and effectivesness of the entry-level storage business's internal quarterly reports. Generated and presented market, competitive, and product analysis for the entry storage business unit. Substantially improved, and maintained, the accuracy of the business unit's internal quarterly reports."
       }
     ],
